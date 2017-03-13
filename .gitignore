@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+!.gitignore
+.idea/
+*.iml
+target/
+
+.metadata
+bin/
+tmp/
+.settings/
+.project
+.externalToolBuilders/
+.classpath
+.springBeans
+*.class
+*.jar
+*.war
+*.ear
+
